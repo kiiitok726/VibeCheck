@@ -137,3 +137,21 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+
+#-------------------------- Below is from ChatGPT---------------
+# Next.js build
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Local environment overrides
+.env.local
+.env.*.local
+
+# Editor settings
+.vscode/
+.idea/
+
